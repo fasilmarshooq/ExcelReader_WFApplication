@@ -1,0 +1,11 @@
+C:\Users\DELL\source\repos\RawDataProcessor\RawDataProcessor\obj\Debug\RawDataProcessor.csprojAssemblyReference.cache
+C:\Users\DELL\source\repos\RawDataProcessor\RawDataProcessor\obj\Debug\RawDataProcessor.Properties.Resources.resources
+C:\Users\DELL\source\repos\RawDataProcessor\RawDataProcessor\obj\Debug\RawDataProcessor.csproj.GenerateResource.cache
+C:\Users\DELL\source\repos\RawDataProcessor\RawDataProcessor\obj\Debug\RawDataProcessor.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\RawDataProcessor\RawDataProcessor\bin\Debug\RawDataProcessor.exe.config
+C:\Users\DELL\source\repos\RawDataProcessor\RawDataProcessor\bin\Debug\RawDataProcessor.exe
+C:\Users\DELL\source\repos\RawDataProcessor\RawDataProcessor\bin\Debug\RawDataProcessor.pdb
+C:\Users\DELL\source\repos\RawDataProcessor\RawDataProcessor\obj\Debug\RawDataProcessor.exe
+C:\Users\DELL\source\repos\RawDataProcessor\RawDataProcessor\obj\Debug\RawDataProcessor.pdb
+C:\Users\DELL\source\repos\RawDataProcessor\RawDataProcessor\obj\Debug\RawDataProcessor.csproj.ResolveComReference.cache
+C:\Users\DELL\source\repos\RawDataProcessor\RawDataProcessor\obj\Debug\RawDataProcessor.RawDataProcessorForm.resources
